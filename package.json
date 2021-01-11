@@ -47,7 +47,7 @@
     "rollup-plugin-babel": "^4.4.0"
   },
   "dependencies": {
-    "@babel/runtime": "^7.9.2",
+    "@babel/runtime": "^7.12.5",
     "@emotion/core": "^10.0.14",
     "@swiftcarrot/color-fns": "^3.0.4",
     "@xkit/popover": "^0.1.20",
