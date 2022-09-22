@@ -1,0 +1,18 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.0
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - react-input-number > lodash:
+        patched: '2022-09-22T15:25:16.853Z'
+    - '@xkit/popover > frontend-fns > lodash':
+        patched: '2022-09-22T15:25:16.853Z'
+    - '@emotion/core > @emotion/css > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash':
+        patched: '2022-09-22T15:25:16.853Z'
+    - '@xkit/popover > @emotion/core > @emotion/css > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash':
+        patched: '2022-09-22T15:25:16.853Z'
+    - react-input-number > @emotion/core > @emotion/css > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2022-09-22T15:25:16.853Z'
+    - react-input-slider > @emotion/core > @emotion/css > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2022-09-22T15:25:16.853Z'
