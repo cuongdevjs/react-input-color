@@ -48,9 +48,9 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.9.2",
-    "@emotion/core": "^10.0.14",
+    "@emotion/core": "^11.0.0",
     "@swiftcarrot/color-fns": "^3.0.4",
-    "@xkit/popover": "^0.1.20",
+    "@xkit/popover": "^0.1.21",
     "react-input-number": "^5.0.18",
     "react-input-slider": "^5.1.2"
   },
